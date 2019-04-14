@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/joelfrancis/MenuApp/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
