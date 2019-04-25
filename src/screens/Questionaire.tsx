@@ -35,10 +35,10 @@ interface State {
   class Questionaire extends React.Component<{}, State> {
     readonly state: State= {
     
-    Cuisine: "What cuisine do you prefer?",
-    FoodType: "What are your favorite types of food?",
-    WantedIngredients: "What ingredients do you like?",
-    UnwantedIngredients: "What ingredients do you dislike?" 
+    Cuisine: "",
+    FoodType: "",
+    WantedIngredients: "",
+    UnwantedIngredients: "" 
     };
   
     handleCuisineChange = (Cuisine: string) => {
