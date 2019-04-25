@@ -1,4 +1,4 @@
 
-import LoginScreen from "./src/screens/LoginScreen";
+import Questionaire from "./src/screens/Questionaire";
 
-export default LoginScreen;
+export default Questionaire;
