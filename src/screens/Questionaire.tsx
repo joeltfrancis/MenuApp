@@ -98,7 +98,7 @@ interface State {
             />
             
             <Text style={styles.Intro}>
-            What ingredients do you hate?
+            What ingredients do you dislike?
             </Text>
             <FormTextInput
               value={this.state.UnwantedIngredients}
