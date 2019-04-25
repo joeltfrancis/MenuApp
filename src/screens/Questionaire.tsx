@@ -69,7 +69,7 @@ interface State {
           
         <View style={styles.form}>
         <Text style={styles.Intro}>
-                
+            What is your favorite Cuisine? 
         </Text>
             <FormTextInput
               value={this.state.Cuisine}
@@ -77,6 +77,10 @@ interface State {
               placeholder={strings.Cuisine_PLACEHOLDER}
             />
             
+          <Text style={styles.Intro}>
+            What is your favorite Food Item? 
+        </Text>
+          
             <FormTextInput
               value={this.state.FoodType}
               onChangeText={this.handleFoodTypeChange}
@@ -84,13 +88,18 @@ interface State {
             />
 
 
-
+            <Text style={styles.Intro}>
+            What are your favorite ingredients? 
+           </Text>
             <FormTextInput
               value={this.state.WantedIngredients}
               onChangeText={this.handleWantedIngredientsChange}
               placeholder={strings.WantedIngredients_PLACEHOLDER}
             />
             
+            <Text style={styles.Intro}>
+            What ingredients do you hate?
+            </Text>
             <FormTextInput
               value={this.state.UnwantedIngredients}
               onChangeText={this.handleUnwantedIngredientsChange}
